@@ -19,7 +19,7 @@ set/a guesses+=1
 
 if %input%==%num% (
   echo
-  echo Congratulations! you gussed the 
+  echo Congratulations! you guessed the 
 number in %guesses% guesses.
 echo
 goto end
